@@ -9,7 +9,7 @@ Once all dependencies are installed:
 `node app`
 
 
-##Rationale
+## Rationale
 
 The project consists of three main directories, `config`, `routes` and `views` to separate the authorisation and server request logic as well as the templates and views for the handlebars framework.
 
